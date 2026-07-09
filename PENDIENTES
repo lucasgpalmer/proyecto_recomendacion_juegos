@@ -1,0 +1,26 @@
+1- ser felices ❌😢
+
+2- MENU DE OPCION (PARA PODER MODIFICAR USUARIO) ✅😊
+
+3- poner primero juego fav - edad - genero ✅😊
+
+4- editar la funcion de mostrar_estadisticas ✅😊
+
+5- juntar en diccionarios las variables sueltas ✅😊
+
+6- editar el menu de opciones con colorama 
+
+7- opcional en la opcion 2, que desp de mostrarte la lista resumida que puedas elegir un usuario y te muestre TODAS las elecciones hecha ✅😊
+
+8- documentar funciones nuevas
+
+9- QUE NO HAYA MAS DE 2 ESPACIOS SEGUIDO EN NOMBRE Y EN JUEGO FAV ✅😊
+
+10- que la frecuencia de recomendacion se actualice si se modifica el usuario
+
+11- en mostrar estadisticas = recomendacion none
+
+12- los msj de estadisticas podrian mostrar nombres, ejemplo: el usuario con mayor edad es "Pedro" con 24 años.
+
+- juego favorito (Si es igual a juego recomendado) - Ingresar juegos que cumplan todas las caracteristicas (minino 1 juego)
+Para q quede lindo: ordenar top 10 de recomendaciones y q quede ordenado de mayor a menor  || cantidad_de_juegos = len(lista_juegos)
