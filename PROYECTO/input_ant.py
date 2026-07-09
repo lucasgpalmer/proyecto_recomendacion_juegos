@@ -1,4 +1,4 @@
-from validaciones import *
+from validaciones_ant import *
 from cadenas import *
 
 def pedir_entero(mensaje : str = "Ingrese un entero: ", mensaje_error : str = "ERROR. Ingrese un entero: ") -> int:

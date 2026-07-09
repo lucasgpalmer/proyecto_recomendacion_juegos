@@ -2,12 +2,12 @@ from calculos_generales import *
 from config import *
 from diccionario_juegos import *
 from diccionarios import *
-from estadisticas import *
+from estadisticas_ant import *
 from funciones_dict import *
-from input import *
+from input_ant import *
 from mostrar_estadisticas import *
 from reglas_dict import *
-from validaciones import *
+from validaciones_ant import *
 from zzz_test import *
 
 while True:

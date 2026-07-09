@@ -34,7 +34,6 @@ def validar_cadena(opcion_ingresada : str, opcion1 : str = None, opcion2 : str =
     ### ¿Qué retorna?
         bool: True -> Si la opcion ingresada es igual a una predeterminada | False -> Si la opcion ingresada no es igual a ninguna predeterminada.
     '''
-#    opcion_ingresada = transformar_lower(opcion_ingresada)
     if opcion_ingresada != opcion1 and opcion_ingresada != opcion2 and opcion_ingresada != opcion3:
         return False
     else:
